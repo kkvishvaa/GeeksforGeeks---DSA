@@ -3,7 +3,7 @@ public class Solution {
         // code here
         int i;
        
-        for(i=1;i<=m;i++){
+        for(i=1;i<m;i++){
             if ((i*n)%m==1){
                 int inverse=i;
                 return inverse;
