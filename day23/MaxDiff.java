@@ -7,9 +7,8 @@ public class MaxDiff {
             res=Math.max(res,arr[j]-minValue);
             minValue=Math.min(minValue,arr[j]);
         }
-        if(res<0)
-         return 0;
         return res;
     }
 }
 
+//time complexity-theta(n),space complexity-theta(1)
