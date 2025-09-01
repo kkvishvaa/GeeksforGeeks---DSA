@@ -1,5 +1,4 @@
 public class MaxCircularSum {
-    class Solution {
     public int maxCircularSum(int arr[]) {
      int n=arr.length;
      int  maxNormal=maxNormalSum(arr);
@@ -25,4 +24,4 @@ public class MaxCircularSum {
         return res;
     }
 }
-}
+
