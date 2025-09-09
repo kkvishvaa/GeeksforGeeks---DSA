@@ -15,6 +15,7 @@
 
 
 //time O(n) and space O(1):
+//arr[i]=old+(new%n)∗n
 class Solution {
     public void arrange(long[] arr) {
         int n=arr.length;
