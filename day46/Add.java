@@ -1,0 +1,5 @@
+public class Add {
+    int sum(int x, int y) {
+    return x+y;
+}
+}
