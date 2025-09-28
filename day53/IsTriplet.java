@@ -29,4 +29,8 @@ public class IsTriplet {
     }
 }
 
+//Sorting: O(n log n)  
+//Overall;
+//Time Complexity: O(n²)
 
+//Space Complexity: O(1)
