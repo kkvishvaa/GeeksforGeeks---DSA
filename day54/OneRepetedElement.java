@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 public class OneRepetedElement {
     public ArrayList<Integer> findRepeating(int[] arr) {
         // code here
