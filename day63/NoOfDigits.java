@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class NoOfDigits {
-    //Back-end complete function Template for Java
+
 
     public static void main(String args[]) {
         // Your Code Here
